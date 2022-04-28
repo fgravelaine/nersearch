@@ -1,6 +1,5 @@
 import numpy as np
-from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoTokenizer
-from transformers import DataCollatorForTokenClassification
+from transformers import AutoModelForTokenClassification, TrainingArguments, Trainer, AutoTokenizer, DataCollatorForTokenClassification
 from datasets import load_dataset, load_metric
 import datasets
 import os
