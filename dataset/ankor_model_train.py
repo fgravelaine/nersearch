@@ -40,8 +40,7 @@ if __name__ == "__main__":
     learning_rate = 2e-5
     batch_size = 16
     model_root_dir = "~/.ankorsearchv1/models/hf/"
-    #model = "bert-base-multilingual-uncased"
-    model = "bert-base-uncased"
+    model = "bert-base-multilingual-uncased"
 
     ankor_dataset = AnkorSearchDataset()
     ankor_preprocessor = AnkorSearchTokenizer(model)
