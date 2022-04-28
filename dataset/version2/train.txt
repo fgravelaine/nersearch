@@ -1,0 +1,743 @@
+Socks B-CAT
+from O
+Aland B-MADIN
+Islands I-MADIN
+
+Bestseller B-TAG
+Fashion B-CAT
+& I-CAT
+Accessories I-CAT
+made O
+in O
+Timor-Leste B-MADIN
+
+Spirits B-CAT
+Frozen B-TAG
+product I-TAG
+
+palevioletred B-COLOR
+Care B-CAT
+& I-CAT
+Bathing I-CAT
+from O
+Ireland B-MADIN
+
+dodgerblue B-COLOR
+Watches B-CAT
+Bestseller B-TAG
+Bestseller B-TAG
+made O
+in O
+Sierra B-MADIN
+Leone I-MADIN
+
+darkgray B-COLOR
+Brooches B-CAT
+& I-CAT
+Pins I-CAT
+Bestseller B-TAG
+Frozen B-TAG
+product I-TAG
+made O
+in O
+Central B-MADIN
+African I-MADIN
+Republic I-MADIN
+
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+Bracelets B-CAT
+& I-CAT
+Anklets I-CAT
+
+Garden B-CAT
+& I-CAT
+Plants I-CAT
+made O
+in O
+Spain B-MADIN
+
+Contains B-TAG
+alcohol I-TAG
+Bath B-CAT
+& I-CAT
+Bodycare I-CAT
+from O
+Liberia B-MADIN
+
+Handmade B-TAG
+made O
+in O
+Yemen B-MADIN
+
+seagreen B-COLOR
+Baby B-CAT
+Toys I-CAT
+& I-CAT
+Soft I-CAT
+Toys I-CAT
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+Eco-Friendly B-TAG
+made O
+in O
+Lithuania B-MADIN
+
+Frozen B-TAG
+product I-TAG
+Cooking B-CAT
+& I-CAT
+Baking I-CAT
+
+Contains B-TAG
+alcohol I-TAG
+Gift B-CAT
+Wrapping I-CAT
+made O
+in O
+Serbia B-MADIN
+
+Oil B-CAT
+& I-CAT
+Vinegar I-CAT
+Contains B-TAG
+alcohol I-TAG
+Vegan B-TAG
+made O
+in O
+Palestinian B-MADIN
+Territories I-MADIN
+
+Vegan B-TAG
+Baby B-CAT
+Feeding I-CAT
+from O
+Cameroon B-MADIN
+
+Contains B-TAG
+alcohol I-TAG
+Tools, B-CAT
+Spa I-CAT
+& I-CAT
+Spiritual I-CAT
+made O
+in O
+Burundi B-MADIN
+
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+High-Tech B-CAT
+made O
+in O
+St B-MADIN
+Kitts I-MADIN
+& I-MADIN
+Nevis I-MADIN
+
+Earrings B-CAT
+Organic B-TAG
+
+Contains B-TAG
+alcohol I-TAG
+Calendar B-CAT
+from O
+Barbados B-MADIN
+
+Cruelty B-TAG
+free I-TAG
+Cans B-CAT
+& I-CAT
+Jars I-CAT
+
+Stationary B-CAT
+& I-CAT
+Hobbies I-CAT
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+from O
+Jamaica B-MADIN
+
+Sauces B-CAT
+& I-CAT
+Condiments I-CAT
+Bestseller B-TAG
+from O
+Palestinian B-MADIN
+Territories I-MADIN
+
+Vegan B-TAG
+Detox B-CAT
+Tea I-CAT
+and I-CAT
+wellness I-CAT
+from O
+Kenya B-MADIN
+
+Kids B-CAT
+Toys I-CAT
+made O
+in O
+Djibouti B-MADIN
+
+Hot B-CAT
+Drinks I-CAT
+Bestseller B-TAG
+Eco-Friendly B-TAG
+made O
+in O
+Eswatini B-MADIN
+
+Vegan B-TAG
+Women's B-CAT
+Clothing I-CAT
+from O
+Japan B-MADIN
+
+Fragrance B-CAT
+Frozen B-TAG
+product I-TAG
+
+mediumslateblue B-COLOR
+Baby B-CAT
+Toys I-CAT
+& I-CAT
+Soft I-CAT
+Toys I-CAT
+from O
+Morocco B-MADIN
+
+Frozen B-TAG
+product I-TAG
+Kids B-CAT
+Apparel I-CAT
+& I-CAT
+Footwear I-CAT
+
+Hats, B-CAT
+Caps I-CAT
+& I-CAT
+Beanies I-CAT
+made O
+in O
+Russia B-MADIN
+
+Cruelty B-TAG
+free I-TAG
+made O
+in O
+Maldives B-MADIN
+
+Frozen B-TAG
+product I-TAG
+Games B-CAT
+& I-CAT
+Puzzle I-CAT
+from O
+Ghana B-MADIN
+
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+Garden B-CAT
+& I-CAT
+Plants I-CAT
+
+Organic B-TAG
+made O
+in O
+Palau B-MADIN
+
+Detox B-CAT
+Tea I-CAT
+and I-CAT
+wellness I-CAT
+made O
+in O
+Oman B-MADIN
+
+gray B-COLOR
+Home B-CAT
+& I-CAT
+Kitchen I-CAT
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+Cruelty B-TAG
+free I-TAG
+made O
+in O
+Iceland B-MADIN
+
+Sauces B-CAT
+& I-CAT
+Condiments I-CAT
+Vegan B-TAG
+from O
+Taiwan B-MADIN
+
+silver B-COLOR
+Candles B-CAT
+& I-CAT
+Home I-CAT
+Fragrance I-CAT
+Frozen B-TAG
+product I-TAG
+Eco-Friendly B-TAG
+from O
+Kiribati B-MADIN
+
+Kids B-CAT
+Learning I-CAT
+& I-CAT
+Hobbies I-CAT
+from O
+Tajikistan B-MADIN
+
+lightslategray B-COLOR
+Baby B-CAT
+Toys I-CAT
+& I-CAT
+Soft I-CAT
+Toys I-CAT
+from O
+Benin B-MADIN
+
+Vegan B-TAG
+Hats, B-CAT
+Caps I-CAT
+& I-CAT
+Beanies I-CAT
+
+lightcoral B-COLOR
+Kids B-CAT
+Accessories I-CAT
+Bestseller B-TAG
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+made O
+in O
+Tuvalu B-MADIN
+
+lime B-COLOR
+Lighting B-CAT
+from O
+Italy B-MADIN
+
+Baby B-CAT
+Toys I-CAT
+& I-CAT
+Soft I-CAT
+Toys I-CAT
+Contains B-TAG
+alcohol I-TAG
+
+deepskyblue B-COLOR
+Gift B-CAT
+Wrapping I-CAT
+from O
+Kyrgyzstan B-MADIN
+
+lightcoral B-COLOR
+Socks B-CAT
+Vegan B-TAG
+Eco-Friendly B-TAG
+from O
+Montserrat B-MADIN
+
+Body B-CAT
+& I-CAT
+Hair I-CAT
+Jewelry I-CAT
+from O
+Cyprus B-MADIN
+
+Organic B-TAG
+Maternity B-CAT
+from O
+San B-MADIN
+Marino I-MADIN
+
+Small B-CAT
+Accessories I-CAT
+Cruelty B-TAG
+free I-TAG
+
+Care B-CAT
+& I-CAT
+Bathing I-CAT
+made O
+in O
+Laos B-MADIN
+
+Calendar B-CAT
+Contains B-TAG
+alcohol I-TAG
+Organic B-TAG
+made O
+in O
+Iraq B-MADIN
+
+Vegan B-TAG
+Spirits B-CAT
+
+antiquewhite B-COLOR
+Tools, B-CAT
+Spa I-CAT
+& I-CAT
+Spiritual I-CAT
+from O
+Chile B-MADIN
+
+Eco-Friendly B-TAG
+Maternity B-CAT
+from O
+Curaçao B-MADIN
+
+Rings B-CAT
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+
+Home B-CAT
+& I-CAT
+Kitchen I-CAT
+Contains B-TAG
+alcohol I-TAG
+Organic B-TAG
+from O
+Nepal B-MADIN
+
+Contains B-TAG
+alcohol I-TAG
+Oil B-CAT
+& I-CAT
+Vinegar I-CAT
+
+Cruelty B-TAG
+free I-TAG
+Sunglasses B-CAT
+
+Frozen B-TAG
+product I-TAG
+Rings B-CAT
+from O
+Mexico B-MADIN
+
+Bestseller B-TAG
+Earrings B-CAT
+made O
+in O
+United B-MADIN
+Arab I-MADIN
+Emirates I-MADIN
+
+lightgoldenrodyellow B-COLOR
+Brooches B-CAT
+& I-CAT
+Pins I-CAT
+Eco-Friendly B-TAG
+Vegan B-TAG
+from O
+Timor-Leste B-MADIN
+
+Frozen B-TAG
+product I-TAG
+Necklaces B-CAT
+
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+made O
+in O
+Sudan B-MADIN
+
+Vegan B-TAG
+Women's B-CAT
+Clothing I-CAT
+
+Furniture B-CAT
+& I-CAT
+Decoration I-CAT
+Eco-Friendly B-TAG
+Organic B-TAG
+made O
+in O
+Armenia B-MADIN
+
+Stationary B-CAT
+& I-CAT
+Hobbies I-CAT
+Vegan B-TAG
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+made O
+in O
+Madagascar B-MADIN
+
+Watches B-CAT
+from O
+Taiwan B-MADIN
+
+High-Tech B-CAT
+Handmade B-TAG
+Bestseller B-TAG
+from O
+São B-MADIN
+Tomé I-MADIN
+& I-MADIN
+Príncipe I-MADIN
+
+Kids B-CAT
+Accessories I-CAT
+Cruelty B-TAG
+free I-TAG
+
+pink B-COLOR
+Jewelry B-CAT
+from O
+Niue B-MADIN
+
+navy B-COLOR
+Oil B-CAT
+& I-CAT
+Vinegar I-CAT
+Eco-Friendly B-TAG
+Eco-Friendly B-TAG
+from O
+Italy B-MADIN
+
+Home B-CAT
+Decor I-CAT
+from O
+Niger B-MADIN
+
+Men's B-CAT
+Grooming I-CAT
+from O
+Faroe B-MADIN
+Islands I-MADIN
+
+Aperitif B-CAT
+& I-CAT
+Spreads I-CAT
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+Cruelty B-TAG
+free I-TAG
+from O
+Tokelau B-MADIN
+
+chartreuse B-COLOR
+Sunglasses B-CAT
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+Organic B-TAG
+made O
+in O
+Denmark B-MADIN
+
+Pets B-CAT
+Vegan B-TAG
+
+Eco-Friendly B-TAG
+made O
+in O
+Spain B-MADIN
+
+Contains B-TAG
+alcohol I-TAG
+Hot B-CAT
+Drinks I-CAT
+from O
+Norway B-MADIN
+
+mediumvioletred B-COLOR
+Rings B-CAT
+Vegan B-TAG
+Frozen B-TAG
+product I-TAG
+from O
+Bouvet B-MADIN
+Island I-MADIN
+
+Small B-CAT
+Leather I-CAT
+Goods I-CAT
+Cruelty B-TAG
+free I-TAG
+Handmade B-TAG
+made O
+in O
+Philippines B-MADIN
+
+Home B-CAT
+Decor I-CAT
+Bestseller B-TAG
+Handmade B-TAG
+made O
+in O
+Sweden B-MADIN
+
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+Furniture B-CAT
+& I-CAT
+Decoration I-CAT
+from O
+South B-MADIN
+Korea I-MADIN
+
+lightgrey B-COLOR
+Calendar B-CAT
+from O
+Ecuador B-MADIN
+
+Men's B-CAT
+Clothing I-CAT
+Contains B-TAG
+alcohol I-TAG
+Frozen B-TAG
+product I-TAG
+from O
+St B-MADIN
+Martin I-MADIN
+
+Kids B-CAT
+Apparel I-CAT
+& I-CAT
+Footwear I-CAT
+Eco-Friendly B-TAG
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+from O
+Equatorial B-MADIN
+Guinea I-MADIN
+
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+Aperitif B-CAT
+& I-CAT
+Spreads I-CAT
+from O
+Finland B-MADIN
+
+Body B-CAT
+& I-CAT
+Hair I-CAT
+Jewelry I-CAT
+made O
+in O
+Antarctica B-MADIN
+
+Yoga, B-CAT
+Sports I-CAT
+& I-CAT
+Outdoors I-CAT
+Accessories I-CAT
+Handmade B-TAG
+
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+Garden B-CAT
+& I-CAT
+Plants I-CAT
+
+Handmade B-TAG
+Sexual B-CAT
+Wellness I-CAT
+
+Vegan B-TAG
+Earrings B-CAT
+
+darkorchid B-COLOR
+Supplements B-CAT
+& I-CAT
+Vitamins I-CAT
+from O
+Tonga B-MADIN
+
+Vegan B-TAG
+Greeting B-CAT
+Cards I-CAT
+made O
+in O
+Pakistan B-MADIN
+
+Skincare B-CAT
+from O
+New B-MADIN
+Zealand I-MADIN
+
+Vegan B-TAG
+Wine B-CAT
+& I-CAT
+Champagne I-CAT
+from O
+Martinique B-MADIN
+
+Biscuits B-CAT
+Contains B-TAG
+alcohol I-TAG
+
+Beauty B-CAT
+& I-CAT
+Wellness I-CAT
+Cruelty B-TAG
+free I-TAG
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+from O
+United B-MADIN
+Arab I-MADIN
+Emirates I-MADIN
+
+Women's B-CAT
+Clothing I-CAT
+Frozen B-TAG
+product I-TAG
+Frozen B-TAG
+product I-TAG
+made O
+in O
+Tonga B-MADIN
+
+Handmade B-TAG
+Home B-CAT
+Decor I-CAT
+from O
+Sint B-MADIN
+Maarten I-MADIN
+
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+Haircare B-CAT
+made O
+in O
+Canada B-MADIN
+

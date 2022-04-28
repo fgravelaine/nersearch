@@ -1,0 +1,13 @@
+#|COLOR|# #|CAT|# from #|MADIN|#
+#|CAT|# from #|MADIN|#
+#|CAT|# made in #|MADIN|#
+#|CAT|# #|TAG|#
+#|CAT|# #|TAG|# from #|MADIN|#
+#|TAG|# made in #|MADIN|#
+#|TAG|# #|CAT|#
+#|TAG|# #|CAT|# from #|MADIN|#
+#|TAG|# #|CAT|# made in #|MADIN|#
+#|CAT|# #|TAG|# #|TAG|# made in #|MADIN|#
+#|CAT|# #|TAG|# #|TAG|# from #|MADIN|#
+#|COLOR|# #|CAT|# #|TAG|# #|TAG|# from #|MADIN|#
+#|COLOR|# #|CAT|# #|TAG|# #|TAG|# made in #|MADIN|#

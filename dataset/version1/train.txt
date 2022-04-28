@@ -1,0 +1,17 @@
+Bougies B-CAT
+d' O
+Italie B-COUNTRY
+Bio B-TAG
+
+Gilet B-CAT
+fait B-TAG
+main I-TAG
+made O
+in O
+France B-MADIN
+
+Accessoires B-CAT
+Maison I-CAT
+faits O
+en O
+Alsace B-LOC

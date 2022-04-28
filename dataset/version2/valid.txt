@@ -1,0 +1,78 @@
+Contains B-TAG
+alcohol I-TAG
+made O
+in O
+Pitcairn B-MADIN
+Islands I-MADIN
+
+Frozen B-TAG
+product I-TAG
+Belts B-CAT
+& I-CAT
+Suspenders I-CAT
+
+bisque B-COLOR
+Oil B-CAT
+& I-CAT
+Vinegar I-CAT
+from O
+Jamaica B-MADIN
+
+mediumaquamarine B-COLOR
+Jewelry B-CAT
+Storage I-CAT
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+Contains B-TAG
+alcohol I-TAG
+made O
+in O
+Montserrat B-MADIN
+
+honeydew B-COLOR
+Furniture B-CAT
+Frozen B-TAG
+product I-TAG
+Contains B-TAG
+alcohol I-TAG
+from O
+United B-MADIN
+States I-MADIN
+
+mediumspringgreen B-COLOR
+Swimwear B-CAT
+Vegan B-TAG
+Needs B-TAG
+to I-TAG
+be I-TAG
+refrigerated I-TAG
+from O
+Guatemala B-MADIN
+
+Baby B-CAT
+Gear I-CAT
+from O
+American B-MADIN
+Samoa I-MADIN
+
+Calendar B-CAT
+from O
+Papua B-MADIN
+New I-MADIN
+Guinea I-MADIN
+
+Organic B-TAG
+Yoga, B-CAT
+Sports I-CAT
+& I-CAT
+Outdoors I-CAT
+Accessories I-CAT
+
+Organic B-TAG
+Bracelets B-CAT
+& I-CAT
+Anklets I-CAT
+from O
+Cuba B-MADIN
+

@@ -1,0 +1,78 @@
+Drink B-CAT
+& I-CAT
+Tableware I-CAT
+Handmade B-TAG
+Cruelty B-TAG
+free I-TAG
+from O
+Bahrain B-MADIN
+
+Beers B-CAT
+& I-CAT
+Cider I-CAT
+Zero B-TAG
+waste I-TAG
+objective I-TAG
+from O
+Georgia B-MADIN
+
+Sexual B-CAT
+Wellness I-CAT
+Handmade B-TAG
+Vegan B-TAG
+made O
+in O
+United B-MADIN
+States I-MADIN
+
+Honey B-CAT
+& I-CAT
+Jams I-CAT
+made O
+in O
+Nigeria B-MADIN
+
+forestgreen B-COLOR
+Baby B-CAT
+Toys I-CAT
+& I-CAT
+Soft I-CAT
+Toys I-CAT
+from O
+Dominican B-MADIN
+Republic I-MADIN
+
+Contains B-TAG
+alcohol I-TAG
+Bags B-CAT
+& I-CAT
+Travel I-CAT
+from O
+Somalia B-MADIN
+
+Frozen B-TAG
+product I-TAG
+Small B-CAT
+Accessories I-CAT
+
+Sportswear B-CAT
+Frozen B-TAG
+product I-TAG
+Frozen B-TAG
+product I-TAG
+from O
+Kuwait B-MADIN
+
+Frozen B-TAG
+product I-TAG
+Shoes B-CAT
+from O
+Falkland B-MADIN
+Islands I-MADIN
+
+Bags B-CAT
+& I-CAT
+Travel I-CAT
+from O
+Montenegro B-MADIN
+
