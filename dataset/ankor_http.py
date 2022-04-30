@@ -15,7 +15,7 @@ token_classifier = pipeline(
 )
 #tokens = token_classifier("Yellow towel Cruelty free Eco-Friendly organic made in France")
 
-class PredictSentiment(Resource):
+class Tokenize(Resource):
     def get(self):
         # use parser and find the user's query
         args = parser.parse_args()
@@ -48,7 +48,7 @@ class PredictSentiment(Resource):
 
 # Setup the Api resource routing here
 # Route the URL to the resource
-api.add_resource(PredictSentiment, '/')
+api.add_resource(Tokenize, '/')
 
 if __name__ == '__main__':
     app.run(debug=True)
